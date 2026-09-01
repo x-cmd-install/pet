@@ -1,0 +1,58 @@
+about:
+  description: Simple command-line snippet manager
+  license: MIT
+  homepage: 
+  head: 3661dc9
+  archived: false
+  latestVersion: v1.0.1
+  collectedAt: 2026-09-01T05:40:43Z
+timeline:
+  created: 2017-03-11
+  lastCommit: 2026-03-13
+  lastRelease: 2024-12-08
+popularity:
+  star: 5341
+  watcher: 41
+  fork: 250
+  release: 28
+  contributor: 63
+  pullRequest: 42
+  issue: 144
+language:
+  Go: 99787
+  Shell: 2976
+  Makefile: 175
+totalLine: 102938
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-05
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last360d:
+    since: 2025-09-06
+    release: 0
+    mergedPR: 1
+    openPR: 4
+    closedIssue: 0
+    openIssue: 1
+    commit: 3

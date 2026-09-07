@@ -5,15 +5,15 @@ about:
   head: 3661dc9
   archived: false
   latestVersion: "v1.0.1"
-  collectedAt: 2026-09-07T05:10:51Z
+  collectedAt: 2026-09-07T19:14:35Z
 timeline:
   created: 2017-03-11
   lastCommit: 2026-03-13
   lastRelease: 2024-12-08
 popularity:
-  star: 5343
+  star: 5344
   watcher: 42
-  fork: 250
+  fork: 249
   release: 28
   contributor: 63
   pullRequest: 172
@@ -81,7 +81,7 @@ total:
   commit: 331
 ---
 path: /home/runner/.x-repo/github.com/knqyf263/pet
-collectedAt: 2026-09-07T05:10:52Z
+collectedAt: 2026-09-07T19:14:37Z
 loc:
   Go:
     code: 3067
@@ -214,7 +214,7 @@ checks:
       - 'Warn: 5 commits out of 24 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:10:53+00:00
+  collectedAt: 2026-09-07T19:14:37+00:00
   platform:
     darwin/arm64:
       name:  pet_1.0.1_darwin_arm64.tar.gz

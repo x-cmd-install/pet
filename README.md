@@ -29,8 +29,8 @@ Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
-- **Security-Policy** (4/10) — security policy file detected
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Security-Policy** (4/10) — security policy file detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-26 | 0 | 1 | 4 | 0 | 1 | 3 |
-| last720d | 2024-10-01 | 3 | 17 | 7 | 3 | 4 | 96 |
+| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-27 | 0 | 1 | 4 | 0 | 1 | 3 |
+| last720d | 2024-10-02 | 3 | 17 | 7 | 3 | 4 | 96 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for pet lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:58:55Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:40:59Z._

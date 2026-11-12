@@ -1,3 +1,16 @@
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: pet
+  binname: pet
+  visiblename: pet
+  version: 1.0.1
+  origversion: 1.0.1_2
+  status: newest
+  summary: Simple command-line snippet manager
+  maintainers:
+    - contact@ivanchev.net
+  licenses:
+    - MIT
 - repo: aur
   srcname: pet
   binname: pet
@@ -46,13 +59,27 @@
   binname: pet
   visiblename: deskutils/pet
   version: 1.0.1
-  origversion: 1.0.1_15
+  origversion: 1.0.1_16
   status: newest
   summary: Simple command-line snippet manager, written in Go
   maintainers:
     - yuri@freebsd.org
   categories:
     - deskutils
+- repo: terra_41
+  srcname: pet
+  binname: pet-debugsource
+  visiblename: pet-debugsource
+  version: 1.0.1
+  origversion: 1.0.1-2.fc41
+  status: newest
+  summary: Debug sources for package pet
+  maintainers:
+    - owen@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
 - repo: gentoo
   srcname: app-misc/pet
   visiblename: app-misc/pet
@@ -356,20 +383,6 @@
     - MIT
   categories:
     - Development/Debug
-- repo: terra_41
-  srcname: pet
-  binname: pet-debugsource
-  visiblename: pet-debugsource
-  version: 1.0.1
-  origversion: 1.0.1-2.fc41
-  status: newest
-  summary: Debug sources for package pet
-  maintainers:
-    - owen@fyralabs.com
-  licenses:
-    - MIT
-  categories:
-    - Development/Debug
 - repo: terra_rawhide
   srcname: pet
   binname: golang-github-knqyf263-pet-devel
@@ -468,16 +481,3 @@
     - MIT
   categories:
     - Development/Debug
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: pet
-  binname: pet
-  visiblename: pet
-  version: 1.0.1
-  origversion: 1.0.1_2
-  status: newest
-  summary: Simple command-line snippet manager
-  maintainers:
-    - contact@ivanchev.net
-  licenses:
-    - MIT

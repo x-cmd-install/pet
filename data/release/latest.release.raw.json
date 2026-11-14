@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1688,
       "digest": null,
-      "download_count": 2700,
+      "download_count": 2716,
       "created_at": "2024-12-08T08:42:22Z",
       "updated_at": "2024-12-08T08:42:22Z",
       "browser_download_url": "https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4479810,
       "digest": null,
-      "download_count": 815,
+      "download_count": 818,
       "created_at": "2024-12-08T08:42:20Z",
       "updated_at": "2024-12-08T08:42:21Z",
       "browser_download_url": "https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4378601,
       "digest": null,
-      "download_count": 3137,
+      "download_count": 3142,
       "created_at": "2024-12-08T08:42:21Z",
       "updated_at": "2024-12-08T08:42:21Z",
       "browser_download_url": "https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4047018,
       "digest": null,
-      "download_count": 155,
+      "download_count": 156,
       "created_at": "2024-12-08T08:42:21Z",
       "updated_at": "2024-12-08T08:42:21Z",
       "browser_download_url": "https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_linux_386.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4041438,
       "digest": null,
-      "download_count": 133,
+      "download_count": 134,
       "created_at": "2024-12-08T08:42:19Z",
       "updated_at": "2024-12-08T08:42:20Z",
       "browser_download_url": "https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_linux_386.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4317802,
       "digest": null,
-      "download_count": 1969,
+      "download_count": 1973,
       "created_at": "2024-12-08T08:42:21Z",
       "updated_at": "2024-12-08T08:42:22Z",
       "browser_download_url": "https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_linux_amd64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4311267,
       "digest": null,
-      "download_count": 11226,
+      "download_count": 11240,
       "created_at": "2024-12-08T08:42:20Z",
       "updated_at": "2024-12-08T08:42:21Z",
       "browser_download_url": "https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_linux_amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3976488,
       "digest": null,
-      "download_count": 633,
+      "download_count": 637,
       "created_at": "2024-12-08T08:42:19Z",
       "updated_at": "2024-12-08T08:42:20Z",
       "browser_download_url": "https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_linux_arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 4054571,
       "digest": null,
-      "download_count": 71,
+      "download_count": 72,
       "created_at": "2024-12-08T08:42:19Z",
       "updated_at": "2024-12-08T08:42:20Z",
       "browser_download_url": "https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_linux_armv6.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 4205791,
       "digest": null,
-      "download_count": 2672,
+      "download_count": 2675,
       "created_at": "2024-12-08T08:42:21Z",
       "updated_at": "2024-12-08T08:42:21Z",
       "browser_download_url": "https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_windows_386.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 4405838,
       "digest": null,
-      "download_count": 3760,
+      "download_count": 3764,
       "created_at": "2024-12-08T08:42:19Z",
       "updated_at": "2024-12-08T08:42:20Z",
       "browser_download_url": "https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_windows_amd64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 4017873,
       "digest": null,
-      "download_count": 252,
+      "download_count": 254,
       "created_at": "2024-12-08T08:42:20Z",
       "updated_at": "2024-12-08T08:42:20Z",
       "browser_download_url": "https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_windows_arm64.tar.gz"

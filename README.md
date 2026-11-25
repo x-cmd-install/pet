@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,393 · **Forks**: 253 · **Open issues**: 144 · **Contributors**: 63
+- **Stars**: 5,392 · **Forks**: 253 · **Open issues**: 144 · **Contributors**: 63
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 0 | 1 | 3 | 0 | 1 | 1 |
-| last720d | 2024-12-04 | 1 | 8 | 8 | 0 | 4 | 29 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 0 | 1 | 3 | 0 | 1 | 1 |
+| last720d | 2024-12-05 | 1 | 8 | 8 | 0 | 4 | 29 |
 
 ## Release assets
 
@@ -87,16 +87,6 @@ Lowest-scoring checks:
 | [pet_1.0.1_windows_arm64.tar.gz](https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_windows_arm64.tar.gz) | 3.8 MiB | `native/win/arm64` |
 | [pet_1.0.1_windows_armv6.tar.gz](https://github.com/knqyf263/pet/releases/download/v1.0.1/pet_1.0.1_windows_armv6.tar.gz) | 3.9 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **38** distros on [repology.org](https://repology.org/project/pet). **30** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.0.1` | ✅ latest |
-| Nix unstable | `1.0.1` | ✅ latest |
-| Void | `1.0.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for pet lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pet` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -106,4 +96,4 @@ Install metadata for pet lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:20:54Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:01:27Z._
